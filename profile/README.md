@@ -7,7 +7,7 @@
 
 ## Текущие авторы и их проекты
 - kkp_ — chatbot
-- LisoMandiy — [MUREXRobot](https://t.me/MUREXRobot)
+- LisoMandiy — [CristalixAPI](https://github.com/c7x-services/CristalixAPI), [MUREXRobot](https://t.me/MUREXRobot)
 
 ---
 
