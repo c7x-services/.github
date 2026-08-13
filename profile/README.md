@@ -6,7 +6,7 @@
 ---
 
 ## Текущие авторы и их проекты
-- kkp_ — chatbot
+- kkp_ — chatbot, [rise-calc](https://github.com/c7x-services/rise-calc)
 - LisoMandiy — [CristalixAPI](https://github.com/c7x-services/CristalixAPI), [MUREXRobot](https://t.me/MUREXRobot)
 
 ---
